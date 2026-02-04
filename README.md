@@ -20,10 +20,10 @@ Built with **Python + PyQt5**, designed for **Cybersecurity portfolios**.
 ## 🖼️ Screenshots
 
 ### Main Interface
-![Main UI](screenshots/main-ui.png)
+![Main UI](screenshots/main-ui-1.png)
 
 ### Password Analysis
-![Analysis](screenshots/analysis.png)
+![Analysis](screenshots/analysis-ui-2.png)
 
 ---
 
